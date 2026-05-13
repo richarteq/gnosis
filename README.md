@@ -2,9 +2,9 @@
 
 ## Temas
 
-| Clasificación | Lección | Descripción |
+| Cámara | Lección | Tema |
 | :--- | :--- | :--- |
-| Básico| Lección 01 | ¿Qué es Gnosis? |
+| **Básica**| Lección 01 | ¿Qué es Gnosis? |
 | | Lección 02 | Personalidad, Escencia y Ego |
 | | Lección 03 | El Despertar de la Conciencia |
 | | Lección 04 | El Yo Psicológico |
@@ -20,7 +20,7 @@
 | | Lección 14 | El Rayo de la Muerte |
 | | Lección 15 | Reencarnación, Retorno y Recurrencia |
 | | Lección 16 | La Balanza de la Justicia |
-| Avanzado | Lección 01 | Los Cuatro Caminos |
+| **Avanzada** | Lección 01 | Los Cuatro Caminos |
 | | Lección 02 | Diagrama Interno del Hombre |
 | | Lección 03 | Transformación de la energía |
 | | Lección 04 | Los Elementales |
