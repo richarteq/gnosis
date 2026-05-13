@@ -1,6 +1,6 @@
-## Psicología Revolucionaria
+# Psicología Revolucionaria
 
-# Capítulo XVI: El Libro de la Vida
+## Capítulo XVI: El Libro de la Vida
 
 - Una persona es lo que es su vida. Eso que continúa mas allá de la muerte, es la vida. Este es el significado del libro de la vida que se abre con la muerte.
 - Mirada esta cuestión desde un punto de vista estrictamente psicológico, **un día cualquiera de nuestra vida, es realmente una pequeña réplica de la totalidad de la vida**.
