@@ -11,7 +11,7 @@
 | | Lección 05 | Luz, Calor y Sonido |
 | | Lección 06 | La Máquina Humana |
 | | Lección 07 | El Mundo de las Relaciones |
-| | Lección 08 | El Camino y la Vida |
+| | Lección 08 | [El Camino y la Vida](https://github.com/richarteq/gnosis/tree/main/c%C3%A1mara-b%C3%A1sica/lecci%C3%B3n-08) |
 | | Lección 09 | El Nivel del Ser |
 | | Lección 10 | El Decálogo |
 | | Lección 11 | Educación Fundamental |
