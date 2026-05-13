@@ -3,14 +3,14 @@
 ## Capítulo XVI: El Libro de la Vida
 
 - Una persona es lo que es su vida. Eso que continúa mas allá de la muerte, es la vida. Este es el significado del libro de la vida que se abre con la muerte.
-- Mirada esta cuestión desde un punto de vista estrictamente psicológico, **un día cualquiera de nuestra vida, es realmente una pequeña réplica de la totalidad de la vida**.
+- Mirada esta cuestión desde un punto de vista estrictamente psicológico, <mark>**un día cualquiera de nuestra vida, es realmente una pequeña réplica de la totalidad de la vida**</mark>.
 - De todo esto podemos inferir lo siguiente: Si un hombre no trabaja sobre sí mismo hoy, no cambiara nunca.
 - Cuando se afirma que se quiere trabajar sobre sí mismo, y no se trabaja hoy aplazando para mañana, tal afirmación será un simple proyecto y nada mas, porque en el hoy está la réplica de toda nuestra vida.
-- Existe por ahí un dicho vulgar que dice: **"No dejéis para mañana lo que se puede hacer hoy mismo"**.
+- Existe por ahí un dicho vulgar que dice: <mark>**"No dejéis para mañana lo que se puede hacer hoy mismo"**.
 - Si un hombre dice: "Trabajaré sobre mí mismo, mañana", nunca trabajará sobre sí mismo, por que siempre habrá un mañana.
 - Esto es muy similar a cierto aviso, anuncio o letrero que algunos comerciantes ponen en sus tiendas: "HOY NO FÍO, MAÑANA SI".
 - Cuando algún necesitado llega a solicitar crédito, topa con el terrible aviso, y si vuelve al otro día, encuentra otra vez el desdichado anuncio o letrero.
-- Esto es lo que se llama en sicología **la "enfermedad del mañana"**. Mientras un hombre diga "mañana", nunca cambiará.
+- Esto es lo que se llama en sicología <mark>**la "enfermedad del mañana"**</mark>. Mientras un hombre diga "mañana", nunca cambiará.
 - Necesitamos con urgencia máxima, inaplazable, trabajar sobre sí mismo hoy, no soñar perezosamente en un futuro o en una oportunidad extraordinaria.
 - Esos que dicen: "Voy antes a hacer esto o aquello y luego trabajaré". Jamás trabajarán sobre sí mismos, esos son los moradores de la tierra mencionados en las Sagradas Escrituras.
 - Conocí a un poderoso terrateniente que decía: "Necesito primero redondearme y luego trabajar sobre Mí Mismo".
