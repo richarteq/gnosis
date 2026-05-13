@@ -18,6 +18,6 @@
 - Para estar alertas y conocer los defectos que nos llevan a estados equivocados de conciencia.
 
 ## Bibliografia
-- [Psicología Revolucionaria. Cap 6: La vida](https://github.com/richarteq/gnosis/tree/main/referencias/psicolog%C3%ADa-revolucionaria/cap-vi).
-- [Psicología Revolucionaria. Cap 16: El libro de la Vida](https://github.com/richarteq/gnosis/tree/main/referencias/psicolog%C3%ADa-revolucionaria/cap-xvi).
-- Curso de Gnosis (V.M. Lakhsmi) 1ra parte; Lección 7: El Camino y la vida.
+- [Psicología Revolucionaria. Cap 6: La vida](https://github.com/richarteq/gnosis/tree/main/referencias/vm-samael-aun-weor/psicolog%C3%ADa-revolucionaria/cap-vi).
+- [Psicología Revolucionaria. Cap 16: El libro de la Vida](https://github.com/richarteq/gnosis/tree/main/referencias/vm-samael-aun-weor/psicolog%C3%ADa-revolucionaria/cap-xvi).
+- [Curso de Gnosis. V.M. Lakhsmi. 1ra parte. Lección 7: El Camino y la vida](https://github.com/richarteq/gnosis/blob/main/referencias/vm-lakhsmi/curso-de-gnosis/leccion-07/README.md).
