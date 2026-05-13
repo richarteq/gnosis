@@ -22,7 +22,7 @@
 
 ## RESUMEN
 - En este tema trataremos de aclarar que:
--- Por la vida va toda la humanidad, con algunas raras excepciones, debido a que vive una vida mecanica, sometida a las circunstancias por la conciencia dormida.
--- Que el camino es el que lo conduce a uno a ser conciente de si mismo y a salirse de la mecanica de la vida.
--- POR LA HORIZONTAL VA LA VIIDA.
--- POR LA VERTICAL SE LLEGA A DIOS.
+  - Por la vida va toda la humanidad, con algunas raras excepciones, debido a que vive una vida mecanica, sometida a las circunstancias por la conciencia dormida.
+  - Que el camino es el que lo conduce a uno a ser conciente de si mismo y a salirse de la mecanica de la vida.
+  - POR LA HORIZONTAL VA LA VIIDA.
+  - POR LA VERTICAL SE LLEGA A DIOS.
