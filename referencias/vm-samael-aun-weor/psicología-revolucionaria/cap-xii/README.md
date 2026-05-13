@@ -25,6 +25,6 @@
 - Evidenciar, experimentar y comprender es lo fundamental, sólo así es posible trabajar conscientemente para lograr un cambio radical.
 - Afirmar es una cosa y comprender es otra. Cuando alguien dice: "Comprendo que no soy Uno sino Muchos", si su comprensión es verdadera y no mera palabrería insustancial de charla ambigua, esto indica, señala, acusa, plena verificación de la Doctrina de los Muchos Yoes.
 - Conocimiento y Comprensión son diferentes. El primero de estos es de la mente, el segundo del corazón.
-- El mero conocimiento de la Doctrina de los Muchos Yoes de nada sirve; desafortunadamente por estos tiempos en que vivimos, el conocimiento ha ido mucho más allá de la comprensión, porque el <mark>**pobre animal intelectual equivocadamente llamado hombre, desenvolvió exclusivamente el lado del conocimiento olvidando lamentablemente el correspondiente lado del Ser**</mark>.
+- El mero conocimiento de la Doctrina de los Muchos Yoes de nada sirve; desafortunadamente por estos tiempos en que vivimos, el conocimiento ha ido mucho más allá de la comprensión, porque <mark>**el pobre animal intelectual equivocadamente llamado hombre, desenvolvió exclusivamente el lado del conocimiento olvidando lamentablemente el correspondiente lado del Ser**</mark>.
 - Conocer la Doctrina de los Muchos Yoes y comprenderla, es fundamental para todo cambio radical verdadero.
 - Cuando un hombre comienza a observarse detenidamente a sí mismo, desde el ángulo de que no es Uno sino Muchos, obviamente ha iniciado el trabajo serio sobre su naturaleza interior.
