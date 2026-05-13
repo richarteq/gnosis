@@ -13,6 +13,6 @@
 - La Concentración
 
 ## Referencias
-- Psicología Revolucionaria. Cap 1: El nivel del SER.
-- Psicología Revolucionaria. Cap 2: La escalera maravillosa.
-- Psicología Revolucionaria. Cap 12: El Cambio Radical.
+- [Psicología Revolucionaria. Cap 1: El nivel del SER](https://github.com/richarteq/gnosis/tree/main/referencias/vm-samael-aun-weor/psicolog%C3%ADa-revolucionaria/cap-i).
+- [Psicología Revolucionaria. Cap 2: La escalera maravillosa](https://github.com/richarteq/gnosis/tree/main/referencias/vm-samael-aun-weor/psicolog%C3%ADa-revolucionaria/cap-ii).
+- [Psicología Revolucionaria. Cap 12: El Cambio Radical](https://github.com/richarteq/gnosis/tree/main/referencias/vm-samael-aun-weor/psicolog%C3%ADa-revolucionaria/cap-xii).
